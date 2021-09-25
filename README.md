@@ -9,6 +9,12 @@ Below are the the analysis and data to assist the manufacturing team with insigh
 ### Linear Regression to Predict MPG
 
 Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
+- Vehicle weight, spoiler_angle and AWD provided a non-random amount of variance. The two variables that had the most amount of random variance are ground_clearance and vehicle_length.
+
+![image](https://user-images.githubusercontent.com/85530690/134785431-cb19d222-ceac-4479-b593-8017d6d28f69.png)
+
+
+
 
 Is the slope of the linear model considered to be zero? Why or why not?
 
