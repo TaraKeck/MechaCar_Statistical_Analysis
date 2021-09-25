@@ -21,6 +21,8 @@ Is the slope of the linear model considered to be zero? Why or why not?
 
 
 Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
+- The multiple r-squared value is 0.7149 which is approximately 71% of the time the model will predict mpg values correctly. There are probably other factors that were not captured in the datasaet that contribute to the mpg variability of the MechaCar prototypes.
+
 
 ## Deliverable 2:
 ### Summary Statistics on Suspension Coils
