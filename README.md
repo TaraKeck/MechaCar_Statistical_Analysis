@@ -26,9 +26,13 @@ Does this linear model predict mpg of MechaCar prototypes effectively? Why or wh
 
 ## Deliverable 2:
 ### Summary Statistics on Suspension Coils
+The current manufacturing data meets this design specification for all manufacturing lots. Lots 1 and 2 meet the specification, but lot 3 does not. Lots 1 and 2 had variances of 1.15 and 10.13. Lot 3 has a variance of 220.01, which exceeds the 100 pounds per square inch specification. 
+Here are screen shots to demonstrate this data:
+
+![image](https://user-images.githubusercontent.com/85530690/134791094-5bb4bb73-61a3-4b84-bc5b-6e8833797ad9.png)
 
 
-
+![image](https://user-images.githubusercontent.com/85530690/134791099-b597ba91-232b-4393-abe7-ca14f67490d8.png)
 
 ## Deliverable 3:
 ### T-Tests on Suspension Coils
