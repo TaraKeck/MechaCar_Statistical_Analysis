@@ -26,7 +26,7 @@ Does this linear model predict mpg of MechaCar prototypes effectively? Why or wh
 
 ## Deliverable 2:
 ### Summary Statistics on Suspension Coils
-(summary that addresses the design specification requirement for all the manufacturing lots and each lot individually)
+
 
 
 
