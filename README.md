@@ -32,7 +32,17 @@ Does this linear model predict mpg of MechaCar prototypes effectively? Why or wh
 
 ## Deliverable 3:
 ### T-Tests on Suspension Coils
-(summary of the t-test results across all manufacturing lots and for each lot)
+Suspension Coils Cumulative T-test restuls below:
+
+![image](https://user-images.githubusercontent.com/85530690/134790078-92fedc0f-8227-40b9-a6d4-e235f9ae0846.png)
+
+
+![image](https://user-images.githubusercontent.com/85530690/134790087-600036b6-5a5a-4a30-879d-9c2bbf4809ae.png)
+
+
+![image](https://user-images.githubusercontent.com/85530690/134790102-1297afc8-ecb6-4189-9d7f-92a7c6a6daf8.png)
+
+
 
 
 ## Deliverable 4:
