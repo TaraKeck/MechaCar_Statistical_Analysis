@@ -15,8 +15,8 @@ Which variables/coefficients provided a non-random amount of variance to the mpg
 
 
 Is the slope of the linear model considered to be zero? Why or why not?
-- The p-Value for this model, p-Value: 5.35e-11, is much smaller than the assumed significance level of 0.05%. This indicates there is sufficient evidence to reject our null hypothesis.  This information indicates that the linear model is zero.
-- 
+- The p-Value for this model is: 5.35e-11, which is much smaller than the assumed significance level of 0.05%. This indicates there is sufficient evidence to reject our null hypothesis.  This information indicates that the linear model is zero.
+
 ![image](https://user-images.githubusercontent.com/85530690/134786035-2a4cdd24-6bb2-4da4-a86a-e464d69da412.png)
 
 
@@ -48,6 +48,16 @@ Suspension Coils Cumulative T-test restuls below:
 ## Deliverable 4:
 ### Study Design: MechaCar vs Competition
 What metric or metrics are you going to test?
+ -  Using a linear model, perform a statistical study to determine the maintenance cost for the vehicle.   
+ 
 What is the null hypothesis or alternative hypothesis?
+- The null hypothesis is that the slope of the linear model is zero.
+- The alternative hypothesis is that the slope of the linear model is not zero.
+
 What statistical test would you use to test the hypothesis? And why?
+-  I would use simple linear regression to test the hypothesis since this is the most popular for future observations and measures, this would also be beneificial for consumer reports to customers as they make decisions for purchasing cars.
+
 What data is needed to run the statistical test?
+- The data that is needed to run this statistical test would be cost of the maintenance based on model of car and past years for reference.
+
+
